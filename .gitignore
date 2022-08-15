@@ -1,3 +1,8 @@
+.idea
+.idea/
+
+test/
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
